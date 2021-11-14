@@ -1,0 +1,2 @@
+com/example/augmented_reality/BuildConfig.java
+ com.example.augmented_reality.BuildConfig
